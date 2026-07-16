@@ -23,3 +23,8 @@ To solve this, this architecture deploys an **unsupervised Deep Autoencoder** ne
 
 ### 🚀 Production Inference Interface
 The framework includes an embedded Gradio UI risk console that simulates a production analytics workspace. Security analysts can supply a transaction target array, and the model instantly evaluates the tensor, calculates the loss multiplier variance relative to the baseline threshold, and delivers real-time risk classification alerts.
+
+<img width="844" height="299" alt="fraud_detection_gradio_1" src="https://github.com/user-attachments/assets/911acf8e-b63b-440b-b553-57cf85192e96" />
+
+<img width="763" height="284" alt="fraud_detection_gradio_0" src="https://github.com/user-attachments/assets/8caba0b9-c077-41a5-9fa9-c1b1dfe95039" />
+
