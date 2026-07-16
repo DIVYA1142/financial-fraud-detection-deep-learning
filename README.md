@@ -2,7 +2,7 @@
 ## Unsupervised Anomaly Detection using Deep Autoencoders in Production-Representative Architectures
 
 ### 💼 Professional Context & Engineering Motivation
-As a data engineer with 7+ years of industry experience managing large-scale transactional database infrastructures (including core configurations for platforms like Oracle Flexcube and BNP Paribas data layers), I designed this project to independently study the scalability of deep learning frameworks within highly skewed transactional topologies.
+As a data engineer with 7+ years of industry experience managing large-scale transactional database infrastructures (including core configurations for platforms like Oracle Financial Services Software and BNP Paribas data layers), I designed this project to independently study the scalability of deep learning frameworks within highly skewed transactional topologies.
 
 ### 🧠 The Core Data Challenge
 In production banking platforms, fraudulent activity represents an extreme class imbalance anomaly (typically < 0.1% of total transaction volumes). Classical supervised classification workflows often fail to generalize across heavily skewed classes. 
